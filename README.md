@@ -9,7 +9,7 @@ https://6acc4b4a-83b4-4e3e-80b3-fb4dac0033d4-00-2l0r476wv7uzc.riker.replit.dev/
 🔗 Live Demo & Video
 Live Preview: (https://replit.com/@vedants8879/Task-Flow)
 
-Walkthrough Video: [file:///C:/Users/hp/Downloads/New%20Tab.webm]
+Walkthrough Video: (https://drive.google.com/drive/folders/1yIe18VANLM1HzPaB9QBBqDtOE_2pU1Us?usp=drive_link)]
 
 ✨ Features
 Full CRUD Operations: Add, List, Complete, and Delete tasks.
