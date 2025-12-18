@@ -7,7 +7,7 @@ Here is a professionally structured README.md that you can copy and paste into y
 A polished, full-stack Task Management application built in under 60 minutes. This project demonstrates clean API design using FastAPI and a reactive, modern UI using React and Tailwind CSS.
 https://6acc4b4a-83b4-4e3e-80b3-fb4dac0033d4-00-2l0r476wv7uzc.riker.replit.dev/
 🔗 Live Demo & Video
-Live Preview: [C:/Users/hp/Downloads/New%20Tab.webm]
+Live Preview: (https://replit.com/@vedants8879/Task-Flow)
 
 Walkthrough Video: [file:///C:/Users/hp/Downloads/New%20Tab.webm]
 
